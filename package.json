@@ -1,0 +1,16 @@
+{
+    "name": "bing-mac",
+    "version": "1.0.0",
+    "description": "Mac桌面壁纸自动设置为Bing背景",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "eventproxy": "^0.3.5",
+        "request": "^2.81.0",
+        "request-promise-native": "^1.0.3"
+    }
+}
